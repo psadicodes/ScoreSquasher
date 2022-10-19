@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "971426615371",
+    "firebase_url": "https://tricky-corner-default-rtdb.firebaseio.com",
+    "project_id": "tricky-corner",
+    "storage_bucket": "tricky-corner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971426615371:android:4478bd2076adf0c5813dce",
+        "android_client_info": {
+          "package_name": "com.ps.adi.codes.encrypt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971426615371-kfbjj80ocombsq0sss6fueaesrlveri1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4gT8hKwYQtI6Yy2knnHvz73kn1lg-SYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971426615371-kfbjj80ocombsq0sss6fueaesrlveri1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971426615371-biqb567861mnoj6ccpov2g1k1in0m5oa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ps.adi.codes.scoresquasher"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971426615371:android:b5dc0a630fa732d7813dce",
+        "android_client_info": {
+          "package_name": "com.ps.adi.codes.scoresquasher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971426615371-k4po3e3buu9o8auhefq3jnlv6uahhh35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ps.adi.codes.scoresquasher",
+            "certificate_hash": "faa142a339d73b3e428e0541bf2260b4e12c95c3"
+          }
+        },
+        {
+          "client_id": "971426615371-kfbjj80ocombsq0sss6fueaesrlveri1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4gT8hKwYQtI6Yy2knnHvz73kn1lg-SYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971426615371-kfbjj80ocombsq0sss6fueaesrlveri1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971426615371-biqb567861mnoj6ccpov2g1k1in0m5oa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ps.adi.codes.scoresquasher"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971426615371:android:d5903b9533caf857813dce",
+        "android_client_info": {
+          "package_name": "com.ps.adi.trickycorner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971426615371-kfbjj80ocombsq0sss6fueaesrlveri1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4gT8hKwYQtI6Yy2knnHvz73kn1lg-SYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971426615371-kfbjj80ocombsq0sss6fueaesrlveri1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971426615371-biqb567861mnoj6ccpov2g1k1in0m5oa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ps.adi.codes.scoresquasher"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971426615371:android:3f08d55966f82ba2813dce",
+        "android_client_info": {
+          "package_name": "com.ps.adi.trickycorners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971426615371-kfbjj80ocombsq0sss6fueaesrlveri1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4gT8hKwYQtI6Yy2knnHvz73kn1lg-SYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971426615371-kfbjj80ocombsq0sss6fueaesrlveri1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971426615371-biqb567861mnoj6ccpov2g1k1in0m5oa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ps.adi.codes.scoresquasher"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
